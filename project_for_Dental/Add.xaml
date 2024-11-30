@@ -1,0 +1,63 @@
+﻿<Page x:Class="project_for_Dental.Add"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:project_for_Dental"
+      mc:Ignorable="d" 
+      
+      Title="Add">
+
+    <Grid Background="White"  Height="536" Width="1158">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" Margin="10,0,0,58">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto" MinWidth="0"/>
+                <ColumnDefinition Width="auto" MinWidth="0"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="65,23,1040,0" Text="Bemor" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="0,70,1044,0" Text="Tug'ilgan sana" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="6,115,1045,0" Text="Telefon nomer" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+
+
+            <TextBox x:Name="Name" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,20,0,245" TextWrapping="Wrap" Text="" Width="180" RenderTransformOrigin="0.594,0.426"/>
+            <TextBox x:Name="Dateofbirth" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34" RenderTransformOrigin="0.653,0.485"/>
+            <TextBox x:Name="Telnomer" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34" RenderTransformOrigin="0.172,0.443"/>
+            <TextBox x:Name="DoctorConsultant" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="37"/>
+            <TextBox x:Name="ServiceName" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBox x:Name="DiscountPercentage" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBox x:Name="VisitType" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBox x:Name="AdmissionDetails" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBox Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="352,20,695,0" Text="Doctor ismi" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="341,70,695,0" Text="Xizmat nomi" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="369,115,695,0" Text="Chegirma" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="721,25,185,0" Text="Tashrif turi" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="671,70,241,0" Text="Qabul haqida ma'lumot" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
+            <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="745,115,185,0" Text="Summa" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24">
+                <UIElement.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </UIElement.RenderTransform>
+            </TextBlock>
+        </Grid>
+        <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="25,25,827,0" Text="TextBlock" VerticalAlignment="Top"/>
+        <DataGrid x:Name="DataGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                  AutoGenerateColumns="True"  Margin="25,66,31,29"/>
+        <Button Click="SaveDataButton_Click" Content="Add" HorizontalAlignment="Left" Margin="373,170,0,0" Grid.Row="1" VerticalAlignment="Top" Width="134" Height="42"/>
+
+
+
+
+
+    </Grid>
+</Page>
