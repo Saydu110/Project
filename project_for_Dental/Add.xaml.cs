@@ -76,7 +76,7 @@ namespace project_for_Dental
                 string name = Name.Text;
                 string date = Dateofbirth.Text;
                 string tel = Telnomer.Text;
-                string dc = DoctorConsultant.Text;
+                string dc = DoctorName.Text;
                 string sn = ServiceName.Text;
                 string dp = DiscountPercentage.Text;
                 string vt = VisitType.Text;
@@ -112,6 +112,14 @@ namespace project_for_Dental
                 Clients.Clear();
                 LoadData();  // Yangi ma'lumotlar bilan DataGridni to'ldirish
                 MessageBox.Show("Ma'lumotlar saqlandi!");
+                Name.Clear();
+                Dateofbirth.Clear();
+                Telnomer.Clear();                
+                ServiceName.Clear();
+                DiscountPercentage.Clear();
+                VisitType.Clear();
+                AdmissionDetails.Clear();
+                Summa.Clear();
             }
             catch (Exception ex)
             {

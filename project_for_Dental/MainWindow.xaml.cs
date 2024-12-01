@@ -22,7 +22,7 @@ namespace project_for_Dental
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

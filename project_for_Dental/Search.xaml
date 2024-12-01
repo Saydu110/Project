@@ -5,10 +5,18 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:project_for_Dental"
       mc:Ignorable="d"
-      d:DesignHeight="450" d:DesignWidth="800"
-      Title="Search">
+      
+      Title="Search" >
 
-    <Grid Background="Red">
-        
+    <Grid Background="White" Height="536" Width="1158">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto" MinHeight="239"/>
+        </Grid.RowDefinitions>
+        <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="25,25,321,0" Text="Malumotlar" VerticalAlignment="Top" Height="24"/>
+        <DataGrid x:Name="DataGrid"  Margin="25,63,31,46"/>
+
+        <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="25,54,947,0" Grid.Row="1" Text="Search : " VerticalAlignment="Top" Height="24"/>
+        <TextBox x:Name="SearchBox" TextChanged="SearchBox_TextChanged"  Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="182,51,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="276" Height="30"/>
     </Grid>
 </Page>

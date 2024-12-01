@@ -28,12 +28,11 @@
             <TextBox x:Name="Name" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,20,0,245" TextWrapping="Wrap" Text="" Width="180" RenderTransformOrigin="0.594,0.426"/>
             <TextBox x:Name="Dateofbirth" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34" RenderTransformOrigin="0.653,0.485"/>
             <TextBox x:Name="Telnomer" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="139,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34" RenderTransformOrigin="0.172,0.443"/>
-            <TextBox x:Name="DoctorConsultant" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="37"/>
             <TextBox x:Name="ServiceName" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
             <TextBox x:Name="DiscountPercentage" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="484,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
             <TextBox x:Name="VisitType" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
             <TextBox x:Name="AdmissionDetails" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
-            <TextBox Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
+            <TextBox x:Name="Summa" Style="{StaticResource CustomTextBoxStyle}" HorizontalAlignment="Left" Margin="923,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" Height="34"/>
             <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="352,20,695,0" Text="Doctor ismi" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
             <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="341,70,695,0" Text="Xizmat nomi" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
             <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="369,115,695,0" Text="Chegirma" VerticalAlignment="Top" RenderTransformOrigin="0.268,0.48" Height="24"/>
@@ -49,8 +48,13 @@
                     </TransformGroup>
                 </UIElement.RenderTransform>
             </TextBlock>
+            <ComboBox x:Name="DoctorName"  HorizontalAlignment="Left" Margin="484,15,0,0" VerticalAlignment="Top" Width="180">
+                <ComboBoxItem Content="DoktorA"/>
+                <ComboBoxItem Content="DoktorB"/>
+                <ComboBoxItem Content="DoktorC"/>
+            </ComboBox>
         </Grid>
-        <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="25,25,827,0" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock Style="{StaticResource CustomTextBlockStyle}" Margin="25,25,827,0" Text="Malumotlar" VerticalAlignment="Top"/>
         <DataGrid x:Name="DataGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
                   AutoGenerateColumns="True"  Margin="25,66,31,29"/>
         <Button Click="SaveDataButton_Click" Content="Add" HorizontalAlignment="Left" Margin="373,170,0,0" Grid.Row="1" VerticalAlignment="Top" Width="134" Height="42"/>
