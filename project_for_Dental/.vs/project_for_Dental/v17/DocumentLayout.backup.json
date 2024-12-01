@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\",
+  "WorkspaceRootPath": "C:\\GIthub\\Project\\project_for_Dental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|c:\\github\\c-all_lesson\\project_for_dental\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|c:\\github\\c-all_lesson\\project_for_dental\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|C:\\GIthub\\C-All_Lesson\\project_for_Dental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|c:\\github\\c-all_lesson\\project_for_dental\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|c:\\github\\c-all_lesson\\project_for_dental\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|c:\\github\\c-all_lesson\\project_for_dental\\setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{09C9B7E9-F922-4E01-9F69-949A3D43E31D}|project_for_Dental.csproj|solutionrelative:setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Add.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Add.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Setting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,75 +70,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T18:57:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T18:54:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.xaml.cs",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Add.xaml.cs",
+              "RelativeDocumentMoniker": "Add.xaml.cs",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Add.xaml.cs",
+              "RelativeToolTip": "Add.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:54:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\App.xaml",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\App.xaml",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\App.xaml",
               "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-30T14:28:55.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Setting.xaml",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Setting.xaml",
-              "RelativeDocumentMoniker": "Setting.xaml",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Setting.xaml",
-              "RelativeToolTip": "Setting.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-30T14:22:09.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Search.xaml",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Search.xaml",
-              "RelativeDocumentMoniker": "Search.xaml",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Search.xaml",
-              "RelativeToolTip": "Search.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-30T14:20:50.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Add.xaml",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Add.xaml",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Add.xaml",
               "RelativeDocumentMoniker": "Add.xaml",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\Add.xaml*",
-              "RelativeToolTip": "Add.xaml*",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Add.xaml",
+              "RelativeToolTip": "Add.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-30T14:14:18.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\MainWindow.xaml",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-30T13:43:44.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\GIthub\\C-All_Lesson\\project_for_Dental\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T13:43:43.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "Search.xaml.cs",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Search.xaml.cs",
+              "RelativeToolTip": "Search.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:50:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Setting.xaml",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml",
+              "RelativeDocumentMoniker": "Setting.xaml",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml",
+              "RelativeToolTip": "Setting.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T14:22:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:54:48.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Search.xaml",
+              "RelativeDocumentMoniker": "Search.xaml",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Search.xaml",
+              "RelativeToolTip": "Search.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T14:20:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Setting.xaml.cs",
+              "DocumentMoniker": "C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml.cs",
+              "RelativeDocumentMoniker": "Setting.xaml.cs",
+              "ToolTip": "C:\\GIthub\\Project\\project_for_Dental\\Setting.xaml.cs",
+              "RelativeToolTip": "Setting.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:51:30.525Z",
               "EditorCaption": ""
             }
           ]
